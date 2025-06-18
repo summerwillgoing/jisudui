@@ -87,13 +87,6 @@ git clone https://github.com/summerwillgoing/jisudui.git
 
 该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
-### 作者
-
-xxx@xxxx
-
-知乎:xxxx  &ensp; qq:xxxxxx    
-
- *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
 ### 版权说明
 
